@@ -1,5 +1,5 @@
 # \\\\ artefatos eletrônicos
 
-Exemplos básicos de eletrônica criativa usando Arduino.
+Material didático de eletrônica criativa usando Arduino.
 
 Agosto - Novembro / 2020
