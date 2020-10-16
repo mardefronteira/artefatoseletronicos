@@ -1,2 +1,5 @@
 # \\\\ artefatos eletrônicos
-Material do curso de eletrônica criativa realizado entre Agosto e Novembro de 2020.
+
+Exemplos básicos de eletrônica criativa usando Arduino.
+
+Agosto - Novembro / 2020
