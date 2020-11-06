@@ -9,18 +9,10 @@ const int numPots = 2;
 const int pots [] = { A9, A8 };
 int estadoPots [numPots];
 
-/*
-const int pessoas [] = {cachorro, gato, galo}
-int cidades [] = {latido, miado, cacareja}
-pessoas[0] // cachorro
-cidades[0] // latido
-*/
-
 const int seguranca = 10;
 int estadoSeguranca;
 
 void setup() {
-  // for (estado inicial do índice; condicional; incremento)
   for ( int i = 0; i < numBotoes; i++ ) {
     pinMode( botoes[i], INPUT_PULLUP );
   }
