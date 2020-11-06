@@ -16,7 +16,7 @@ int estadoPots [numPots];
 int ultimoEstadoPots [numPots];
 
 // lista de parâmetros a serem controlados
-const int controles [] = { 100, 111 }; // tanto faz, desde que sejam entre 0-120, e diferentes um do outro
+const int controles [] = { 100, 111 }; // tanto faz, desde que sejam entre 0-119, e diferentes um do outro
 
 // função para controlar parâmetros do software
 void controlChange(byte channel, byte control, byte value) {
